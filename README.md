@@ -4,19 +4,7 @@
 
 Founder of [Mindgeist](https://mindgeist.com) · Madrid · [LinkedIn](https://www.linkedin.com/in/federicoblock/)
 
-Innovation and strategy consultant. I help leadership teams decide where AI and new technology change the business, and I build enough of it myself to know what works. Founder of two acquired agencies, former CTO and head of strategy, mentor to startups.
-
-## What I do
-
-| | |
-|---|---|
-| **Strategy & consulting** | Advisory to executive teams on AI and digital transformation: where to apply it, in what order and for what return. |
-| **Innovation** | Three decades bringing emerging technology to market early: real-time graphics in broadcast, interactive media, mobile marketing, voice, LLMs. |
-| **Entrepreneurship** | Founder of a digital agency and a mobile marketing agency, both acquired. Founder of Mindgeist since 2008. |
-| **Mentorship** | Mentor at Madrid Emprende's mentor network. Team enablement as part of every engagement. |
-| **Analysis** | Methodology design, structured research and data normalization that turn scattered information into decisions. |
-
-**Sectors:** media · marketing, advertising and communication · technology.
+Innovation and strategy consultant for media, marketing and communication. I help leadership teams decide where AI and new technology change the business, and I build enough of it myself to know what works. Founder of two acquired agencies, former CTO and head of strategy, mentor at Madrid Emprende.
 
 ## Background
 
@@ -53,19 +41,7 @@ Tools spun out of larger projects:
 
 Fundador de [Mindgeist](https://mindgeist.com) · Madrid · [LinkedIn](https://www.linkedin.com/in/federicoblock/)
 
-Consultor de innovación y estrategia. Ayudo a equipos directivos a decidir dónde la IA y las nuevas tecnologías cambian el negocio, y construyo lo suficiente para saber qué funciona. Fundador de dos agencias adquiridas, ex CTO y director de estrategia, mentor de startups.
-
-#### Qué hago
-
-| | |
-|---|---|
-| **Estrategia y consultoría** | Asesoría a comités de dirección en IA y transformación digital: dónde aplicarla, con qué prioridad y con qué retorno. |
-| **Innovación** | Tres décadas llevando tecnología emergente al mercado antes que la mayoría: gráfica en tiempo real en televisión, medios interactivos, marketing móvil, voz, LLMs. |
-| **Emprendimiento** | Fundador de una agencia digital y otra de marketing móvil, ambas adquiridas. Fundador de Mindgeist desde 2008. |
-| **Mentoría** | Mentor en la Red de Mentores de Madrid Emprende. Capacitación de equipos como parte de cada proyecto. |
-| **Análisis** | Diseño de metodología, investigación estructurada y normalización de datos para convertir información dispersa en decisiones. |
-
-**Sectores:** medios · marketing, publicidad y comunicación · tecnología.
+Consultor de innovación y estrategia para medios, marketing y comunicación. Ayudo a equipos directivos a decidir dónde la IA y las nuevas tecnologías cambian el negocio, y construyo lo suficiente para saber qué funciona. Fundador de dos agencias adquiridas, ex CTO y director de estrategia, mentor en Madrid Emprende.
 
 #### Trayectoria
 
