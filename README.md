@@ -35,7 +35,10 @@ Herramientas surgidas de proyectos mayores, publicadas como código abierto:
 - [pi-here](https://github.com/fedeblock/pi-here): lanzador por carpeta para el agente de código Pi, con Ollama.
 - [timecode-calc](https://github.com/fedeblock/timecode-calc): calculadora de timecode SMPTE, web y escritorio.
 
-En marcha: [Dimoria](https://dimoria.homes), guías de huésped para anfitriones de alquiler.
+## En marcha
+
+- **BLK Assistant**: sistema modular de aprendizaje de braille con asistente de voz.
+- [Dimoria](https://dimoria.homes): guías de huésped para anfitriones de alquiler.
 
 ---
 
@@ -79,6 +82,9 @@ Tools spun out of larger projects:
 - [pi-here](https://github.com/fedeblock/pi-here): per-folder launcher for the Pi coding agent, with Ollama.
 - [timecode-calc](https://github.com/fedeblock/timecode-calc): SMPTE timecode calculator, web and desktop.
 
-In progress: [Dimoria](https://dimoria.homes), guest guides for short-term rental hosts.
+#### In progress
+
+- **BLK Assistant**: modular braille learning system with a voice assistant.
+- [Dimoria](https://dimoria.homes): guest guides for short-term rental hosts.
 
 </details>
