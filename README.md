@@ -6,7 +6,7 @@ Founder of [Mindgeist](https://mindgeist.com) · Madrid · [LinkedIn](https://ww
 
 [![on air since: 1994](https://img.shields.io/badge/on_air_since-1994-E4572E?style=flat-square&labelColor=1f2328)](#the-story-so-far) [![exits: 2](https://img.shields.io/badge/exits-2-E4572E?style=flat-square&labelColor=1f2328)](#the-story-so-far) [![Alexa skills in Spanish: #1 by volume](https://img.shields.io/badge/Alexa_skills_in_Spanish-%231_by_volume-E4572E?style=flat-square&labelColor=1f2328)](https://mindgeist.com) [![MIT Media Lab: sponsor delegate](https://img.shields.io/badge/MIT_Media_Lab-sponsor_delegate-E4572E?style=flat-square&labelColor=1f2328)](https://www.media.mit.edu) [![Silicon Graphics: advisory board](https://img.shields.io/badge/Silicon_Graphics-advisory_board-E4572E?style=flat-square&labelColor=1f2328)](#the-story-so-far) [![Madrid Emprende: mentor](https://img.shields.io/badge/Madrid_Emprende-mentor-E4572E?style=flat-square&labelColor=1f2328)](#the-story-so-far)
 
-`AI strategy` `Innovation` `Consulting` `Entrepreneurship` `Mentorship` `Analysis` `Media` `Marketing & advertising` `Voice UX` `LLMs`
+`AI strategy` `Innovation` `Consulting` `Entrepreneurship` `Mentorship` `Strategic analysis` `Media` `Marketing & advertising` `Voice UX` `LLMs`
 
 Innovation and strategy consultant for media, marketing and communication. I help leadership teams decide where AI and new technology change the business, and I build enough of it myself to know what works. Founder of two acquired agencies, former CTO and head of strategy, mentor at Madrid Emprende.
 
