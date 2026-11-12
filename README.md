@@ -12,13 +12,13 @@ Innovation and strategy consultant for media, marketing and communication. I hel
 
 ## Experience
 
-- **Mindgeist** · Founder · 2008–present
+- **Mindgeist** · Founder · 2008–present<br>
   AI and voice strategy, phygital experiences (retail, digital signage, computer vision) and digital transformation for brands, agencies and institutions. Top publisher by volume of Spanish-language Alexa skills (Spain, Mexico and Hispanic US).
-- **By Cycle** · CTO, strategy and creative
+- **By Cycle** · CTO, strategy and creative<br>
   Mobile marketing agency. Acquired by Buongiorno Vitaminic (2007).
-- **Tsubcero** · Founder and director
+- **Tsubcero** · Founder and director<br>
   Digital agency. Acquired by WPP/Ogilvy (2001).
-- **Artear (TV)**
+- **Artear (TV)**<br>
   Production digitization, real-time virtual actors for the 1994 World Cup, launch of the Interactive Media unit. Silicon Graphics advisory board. Delegate at the MIT Media Lab, in the *News in the Future* and *Television of Tomorrow* programs.
 
 ## Current projects
@@ -49,13 +49,13 @@ Consultor de innovación y estrategia para medios, marketing y comunicación. Ay
 
 #### Experiencia
 
-- **Mindgeist** · Fundador · 2008–hoy
+- **Mindgeist** · Fundador · 2008–hoy<br>
   Estrategia de IA y voz, experiencias phygital (retail, cartelería digital, *computer vision*) y transformación digital para marcas, agencias e instituciones. Primer editor, por volumen, de skills de Alexa en español (España, México y EE. UU. hispano).
-- **By Cycle** · CTO, estrategia y creatividad
+- **By Cycle** · CTO, estrategia y creatividad<br>
   Agencia de marketing móvil. Adquirida por Buongiorno Vitaminic (2007).
-- **Tsubcero** · Fundador y director
+- **Tsubcero** · Fundador y director<br>
   Agencia digital. Adquirida por WPP/Ogilvy (2001).
-- **Artear (TV)**
+- **Artear (TV)**<br>
   Digitalización de la producción, actores virtuales en tiempo real en el Mundial 94, creación del área de Medios Interactivos. Advisory board de Silicon Graphics. Delegado en el MIT Media Lab, en los programas *News in the Future* y *Television of Tomorrow*.
 
 #### Proyectos actuales
