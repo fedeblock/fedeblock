@@ -4,9 +4,13 @@
 
 Founder of [Mindgeist](https://mindgeist.com) · Madrid · [LinkedIn](https://www.linkedin.com/in/federicoblock/)
 
+![on air since: 1994](https://img.shields.io/badge/on_air_since-1994-E4572E?style=flat-square&labelColor=1f2328) ![exits: 2](https://img.shields.io/badge/exits-2-E4572E?style=flat-square&labelColor=1f2328) ![Alexa skills in Spanish: #1 by volume](https://img.shields.io/badge/Alexa_skills_in_Spanish-%231_by_volume-E4572E?style=flat-square&labelColor=1f2328) ![MIT Media Lab: sponsor delegate](https://img.shields.io/badge/MIT_Media_Lab-sponsor_delegate-E4572E?style=flat-square&labelColor=1f2328) ![Silicon Graphics: advisory board](https://img.shields.io/badge/Silicon_Graphics-advisory_board-E4572E?style=flat-square&labelColor=1f2328) ![Madrid Emprende: mentor](https://img.shields.io/badge/Madrid_Emprende-mentor-E4572E?style=flat-square&labelColor=1f2328)
+
+![AI strategy](https://img.shields.io/badge/AI_strategy-30363d?style=flat-square) ![Innovation](https://img.shields.io/badge/Innovation-30363d?style=flat-square) ![Consulting](https://img.shields.io/badge/Consulting-30363d?style=flat-square) ![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-30363d?style=flat-square) ![Mentorship](https://img.shields.io/badge/Mentorship-30363d?style=flat-square) ![Analysis](https://img.shields.io/badge/Analysis-30363d?style=flat-square) ![Media](https://img.shields.io/badge/Media-30363d?style=flat-square) ![Marketing & advertising](https://img.shields.io/badge/Marketing_%26_advertising-30363d?style=flat-square) ![Voice UX](https://img.shields.io/badge/Voice_UX-30363d?style=flat-square) ![LLMs](https://img.shields.io/badge/LLMs-30363d?style=flat-square)
+
 Innovation and strategy consultant for media, marketing and communication. I help leadership teams decide where AI and new technology change the business, and I build enough of it myself to know what works. Founder of two acquired agencies, former CTO and head of strategy, mentor at Madrid Emprende.
 
-## The story so far
+## Experience
 
 - **Mindgeist** · Founder · 2008–present
   AI and voice strategy, phygital experiences (retail, digital signage, computer vision) and digital transformation for brands, agencies and institutions. Top publisher by volume of Spanish-language Alexa skills (Spain, Mexico and Hispanic US).
@@ -17,7 +21,7 @@ Innovation and strategy consultant for media, marketing and communication. I hel
 - **Artear (TV)**
   Production digitization, real-time virtual actors for the 1994 World Cup, launch of the Interactive Media unit. Silicon Graphics advisory board. Delegate at the MIT Media Lab, in the *News in the Future* and *Television of Tomorrow* programs.
 
-## Now in production
+## Current projects
 
 - **BLK Assistant**: modular braille learning system with a voice assistant.
 - [Dimoria](https://dimoria.homes): guest guides for short-term rental hosts.
@@ -43,7 +47,7 @@ Fundador de [Mindgeist](https://mindgeist.com) · Madrid · [LinkedIn](https://w
 
 Consultor de innovación y estrategia para medios, marketing y comunicación. Ayudo a equipos directivos a decidir dónde la IA y las nuevas tecnologías cambian el negocio, y construyo lo suficiente para saber qué funciona. Fundador de dos agencias adquiridas, ex CTO y director de estrategia, mentor en Madrid Emprende.
 
-#### La historia hasta aquí
+#### Experiencia
 
 - **Mindgeist** · Fundador · 2008–hoy
   Estrategia de IA y voz, experiencias phygital (retail, cartelería digital, *computer vision*) y transformación digital para marcas, agencias e instituciones. Primer editor, por volumen, de skills de Alexa en español (España, México y EE. UU. hispano).
@@ -54,7 +58,7 @@ Consultor de innovación y estrategia para medios, marketing y comunicación. Ay
 - **Artear (TV)**
   Digitalización de la producción, actores virtuales en tiempo real en el Mundial 94, creación del área de Medios Interactivos. Advisory board de Silicon Graphics. Delegado en el MIT Media Lab, en los programas *News in the Future* y *Television of Tomorrow*.
 
-#### En producción
+#### Proyectos actuales
 
 - **BLK Assistant**: sistema modular de aprendizaje de braille con asistente de voz.
 - [Dimoria](https://dimoria.homes): guías de huésped para anfitriones de alquiler.
