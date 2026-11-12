@@ -34,6 +34,7 @@ Herramientas surgidas de proyectos mayores, publicadas como código abierto:
 
 - [pi-here](https://github.com/fedeblock/pi-here): lanzador por carpeta para el agente de código Pi, con Ollama.
 - [timecode-calc](https://github.com/fedeblock/timecode-calc): calculadora de timecode SMPTE, web y escritorio.
+- [mqttaudio-mindgeist](https://github.com/fedeblock/mqttaudio-mindgeist): reproductor de audio controlado por MQTT, adaptado para BLK Assistant (fork de mqttaudio).
 
 ## En marcha
 
@@ -81,6 +82,7 @@ Tools spun out of larger projects:
 
 - [pi-here](https://github.com/fedeblock/pi-here): per-folder launcher for the Pi coding agent, with Ollama.
 - [timecode-calc](https://github.com/fedeblock/timecode-calc): SMPTE timecode calculator, web and desktop.
+- [mqttaudio-mindgeist](https://github.com/fedeblock/mqttaudio-mindgeist): MQTT-controlled audio player, adapted for BLK Assistant (fork of mqttaudio).
 
 #### In progress
 
