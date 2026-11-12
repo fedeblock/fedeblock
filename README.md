@@ -24,7 +24,7 @@ Dirijo estrategia de IA y transformación digital desde la intersección de tres
 - **Tsubcero** · Fundador y director
   Agencia digital. Adquirida por WPP/Ogilvy (2001).
 - **Artear (TV)**
-  Digitalización de la producción, actores virtuales en tiempo real en el Mundial 94, creación del área de Medios Interactivos. Advisory board de Silicon Graphics y delegado en el MIT Media Lab.
+  Digitalización de la producción, actores virtuales en tiempo real en el Mundial 94, creación del área de Medios Interactivos. Advisory board de Silicon Graphics. Delegado en el MIT Media Lab, en los programas *News in the Future* y *Television of Tomorrow*.
 
 Mentor en la Red de Mentores de Madrid Emprende.
 
@@ -68,7 +68,7 @@ I lead AI strategy and digital transformation from the intersection of three wor
 - **Tsubcero** · Founder and director
   Digital agency. Acquired by WPP/Ogilvy (2001).
 - **Artear (TV)**
-  Production digitization, real-time virtual actors for the 1994 World Cup, launch of the Interactive Media unit. Silicon Graphics advisory board and MIT Media Lab delegate.
+  Production digitization, real-time virtual actors for the 1994 World Cup, launch of the Interactive Media unit. Silicon Graphics advisory board. Delegate at the MIT Media Lab, in the *News in the Future* and *Television of Tomorrow* programs.
 
 Mentor at Madrid Emprende's mentor network.
 
