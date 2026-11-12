@@ -6,7 +6,7 @@ Founder of [Mindgeist](https://mindgeist.com) · Madrid · [LinkedIn](https://ww
 
 Innovation and strategy consultant for media, marketing and communication. I help leadership teams decide where AI and new technology change the business, and I build enough of it myself to know what works. Founder of two acquired agencies, former CTO and head of strategy, mentor at Madrid Emprende.
 
-## Background
+## Experience
 
 - **Mindgeist** · Founder · 2008–present
   AI and voice strategy, phygital experiences (retail, digital signage, computer vision) and digital transformation for brands, agencies and institutions. Top publisher by volume of Spanish-language Alexa skills (Spain, Mexico and Hispanic US).
@@ -17,14 +17,14 @@ Innovation and strategy consultant for media, marketing and communication. I hel
 - **Artear (TV)**
   Production digitization, real-time virtual actors for the 1994 World Cup, launch of the Interactive Media unit. Silicon Graphics advisory board. Delegate at the MIT Media Lab, in the *News in the Future* and *Television of Tomorrow* programs.
 
-## In progress
+## Current projects
 
 - **BLK Assistant**: modular braille learning system with a voice assistant.
 - [Dimoria](https://dimoria.homes): guest guides for short-term rental hosts.
 
-## Open source
+## Open-source tools
 
-Tools spun out of larger projects:
+Spun out of larger projects:
 
 - [pi-here](https://github.com/fedeblock/pi-here): per-folder launcher for the Pi coding agent, with Ollama.
 - [timecode-calc](https://github.com/fedeblock/timecode-calc): SMPTE timecode calculator, web and desktop.
@@ -43,7 +43,7 @@ Fundador de [Mindgeist](https://mindgeist.com) · Madrid · [LinkedIn](https://w
 
 Consultor de innovación y estrategia para medios, marketing y comunicación. Ayudo a equipos directivos a decidir dónde la IA y las nuevas tecnologías cambian el negocio, y construyo lo suficiente para saber qué funciona. Fundador de dos agencias adquiridas, ex CTO y director de estrategia, mentor en Madrid Emprende.
 
-#### Trayectoria
+#### Experiencia
 
 - **Mindgeist** · Fundador · 2008–hoy
   Estrategia de IA y voz, experiencias phygital (retail, cartelería digital, *computer vision*) y transformación digital para marcas, agencias e instituciones. Primer editor, por volumen, de skills de Alexa en español (España, México y EE. UU. hispano).
@@ -54,14 +54,14 @@ Consultor de innovación y estrategia para medios, marketing y comunicación. Ay
 - **Artear (TV)**
   Digitalización de la producción, actores virtuales en tiempo real en el Mundial 94, creación del área de Medios Interactivos. Advisory board de Silicon Graphics. Delegado en el MIT Media Lab, en los programas *News in the Future* y *Television of Tomorrow*.
 
-#### En marcha
+#### Proyectos actuales
 
 - **BLK Assistant**: sistema modular de aprendizaje de braille con asistente de voz.
 - [Dimoria](https://dimoria.homes): guías de huésped para anfitriones de alquiler.
 
-#### En abierto
+#### Herramientas de código abierto
 
-Herramientas surgidas de proyectos mayores, publicadas como código abierto:
+Surgidas de proyectos mayores:
 
 - [pi-here](https://github.com/fedeblock/pi-here): lanzador por carpeta para el agente de código Pi, con Ollama.
 - [timecode-calc](https://github.com/fedeblock/timecode-calc): calculadora de timecode SMPTE, web y escritorio.
