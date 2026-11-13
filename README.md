@@ -1,10 +1,10 @@
 # Federico Block
 
-**Technology, media and marketing since 1994. From SGI in television to voice and LLMs. Two exits.**
+**Technology and media since 1992, online since 1994. From SGI in television to voice and LLMs. Two exits.**
 
 Founder of [Mindgeist](https://mindgeist.com) · Madrid · [LinkedIn](https://www.linkedin.com/in/federicoblock/)
 
-[![on air since: 1994](https://img.shields.io/badge/on_air_since-1994-E4572E?style=flat-square&labelColor=1f2328)](#the-story-so-far) [![exits: 2](https://img.shields.io/badge/exits-2-E4572E?style=flat-square&labelColor=1f2328)](#the-story-so-far) [![Alexa skills in Spanish: #1 by volume](https://img.shields.io/badge/Alexa_skills_in_Spanish-%231_by_volume-E4572E?style=flat-square&labelColor=1f2328)](https://mindgeist.com) [![MIT Media Lab: sponsor delegate](https://img.shields.io/badge/MIT_Media_Lab-sponsor_delegate-E4572E?style=flat-square&labelColor=1f2328)](https://www.media.mit.edu) [![Silicon Graphics: advisory board](https://img.shields.io/badge/Silicon_Graphics-advisory_board-E4572E?style=flat-square&labelColor=1f2328)](#the-story-so-far) [![Madrid Emprende: mentor](https://img.shields.io/badge/Madrid_Emprende-mentor-E4572E?style=flat-square&labelColor=1f2328)](#the-story-so-far)
+[![on air since: 1992](https://img.shields.io/badge/on_air_since-1992-E4572E?style=flat-square&labelColor=1f2328)](#the-story-so-far) [![online since: 1994](https://img.shields.io/badge/online_since-1994-E4572E?style=flat-square&labelColor=1f2328)](#the-story-so-far) [![exits: 2](https://img.shields.io/badge/exits-2-E4572E?style=flat-square&labelColor=1f2328)](#the-story-so-far) [![Alexa skills in Spanish: #1 by volume](https://img.shields.io/badge/Alexa_skills_in_Spanish-%231_by_volume-E4572E?style=flat-square&labelColor=1f2328)](https://mindgeist.com) [![MIT Media Lab: sponsor delegate](https://img.shields.io/badge/MIT_Media_Lab-sponsor_delegate-E4572E?style=flat-square&labelColor=1f2328)](https://www.media.mit.edu) [![Silicon Graphics: advisory board](https://img.shields.io/badge/Silicon_Graphics-advisory_board-E4572E?style=flat-square&labelColor=1f2328)](#the-story-so-far) [![Madrid Emprende: mentor](https://img.shields.io/badge/Madrid_Emprende-mentor-E4572E?style=flat-square&labelColor=1f2328)](#the-story-so-far)
 
 `AI strategy` `Innovation` `Consulting` `Entrepreneurship` `Mentorship` `Strategic analysis` `Media` `Marketing & advertising` `Voice UX` `LLMs`
 
@@ -17,9 +17,9 @@ Innovation and strategy consultant for media, marketing and communication. I hel
 - **By Cycle** · CTO, strategy and creative<br>
   Mobile marketing agency. Acquired by Buongiorno Vitaminic (2007).
 - **Tsubcero** · Founder and director<br>
-  Digital agency. Acquired by WPP/Ogilvy (2001).
+  Argentina's first digital communication agency. Acquired by WPP/Ogilvy (2001).
 - **Artear (TV)**<br>
-  Production digitization, real-time virtual actors for the 1994 World Cup, launch of the Interactive Media unit. Silicon Graphics advisory board. Delegate at the MIT Media Lab, in the *News in the Future* and *Television of Tomorrow* programs.
+  Production digitization, real-time virtual actors for the 1994 World Cup, on the internet since 1994 and launch of the group's first websites in January 1996. Silicon Graphics advisory board. Delegate at the MIT Media Lab, in the *News in the Future* and *Television of Tomorrow* programs.
 
 ## Now in production
 
@@ -41,7 +41,7 @@ Small open-source tools that escaped from bigger projects:
 
 ### Federico Block
 
-**Tecnología, medios y marketing desde 1994. De SGI en televisión a voz y LLMs. Dos exits.**
+**Tecnología y medios desde 1992, en internet desde 1994. De SGI en televisión a voz y LLMs. Dos exits.**
 
 Fundador de [Mindgeist](https://mindgeist.com) · Madrid · [LinkedIn](https://www.linkedin.com/in/federicoblock/)
 
@@ -54,9 +54,9 @@ Consultor de innovación y estrategia para medios, marketing y comunicación. Ay
 - **By Cycle** · CTO, estrategia y creatividad<br>
   Agencia de marketing móvil. Adquirida por Buongiorno Vitaminic (2007).
 - **Tsubcero** · Fundador y director<br>
-  Agencia digital. Adquirida por WPP/Ogilvy (2001).
+  La primera agencia de comunicación digital de Argentina. Adquirida por WPP/Ogilvy (2001).
 - **Artear (TV)**<br>
-  Digitalización de la producción, actores virtuales en tiempo real en el Mundial 94, creación del área de Medios Interactivos. Advisory board de Silicon Graphics. Delegado en el MIT Media Lab, en los programas *News in the Future* y *Television of Tomorrow*.
+  Digitalización de la producción, actores virtuales en tiempo real en el Mundial 94, en internet desde 1994 y lanzamiento de los primeros sitios web del grupo en enero de 1996. Advisory board de Silicon Graphics. Delegado en el MIT Media Lab, en los programas *News in the Future* y *Television of Tomorrow*.
 
 #### En producción
 
